@@ -1,0 +1,32 @@
+body{
+background-color: pink;
+background-image: url(https://i.gifer.com/YGt1.gif);
+background-repeat: no-repeat;
+background-position: 100% 100%;
+background-attachment: fixed;
+background-size: 200px;
+
+
+
+}	
+p{
+ font-size: 15mm;
+  color: red;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6Rod6Zv5NUMyCPUzTpMMcA8Ib4LlDQL6w4g&usqp=CAU) 
+
+
+
+}
+.img1{
+margin: auto;
+display: block;
+border-radius: 25%;
+box-shadow: 20px 20px 50px yellow;
+}
+.img2{
+	width: 300px;
+}
+
+
+
+
